@@ -1,3 +1,11 @@
+You're given the task of writing a simple console version of a drwaing program. The functionality of the program is quite limite but should be extensible. The program should work as follows:
+
+1. create new canvas.
+2. start drwaing on the canvas by issuing various commands.
+3. quit.
+
+The program should support the followings commands:
+
 | Command          | Description                                                                                          |
 |------------------| :--------------------------------------------------------------------------------------------------- |
 | `C w h`          | Should create a new canvas  of width w and height h. |
