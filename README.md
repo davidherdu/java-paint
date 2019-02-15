@@ -20,9 +20,9 @@ Below is a sample of the output your program should produce. User input is prefi
 	
 `enter command: C 20 4`<br />
 `--------------------`<br />
-`| 					  |`<br />
-`| 					  |`<br />
-`| 					  |`<br />
-`| 					  |`<br />
+`|						|`<br />
+`|						|`<br />
+`|						|`<br />
+`|						|`<br />
 `--------------------`<br />
 	
