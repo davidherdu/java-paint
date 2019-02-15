@@ -1,3 +1,4 @@
+# Java paint
 You're given the task of writing a simple console version of a drwaing program. The functionality of the program is quite limite but should be extensible. The program should work as follows:
 
 1. create new canvas.
