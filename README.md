@@ -19,12 +19,12 @@ The program should support the followings commands:
 Below is a sample of the output your program should produce. User input is prefixed with `enter command:`:
 	
 ```	
-enter command: C 20 4<br />
---------------------<br />
-|						|<br />
-|						|<br />
-|						|<br />
-|						|<br />
---------------------<br />
+enter command: C 20 4
+--------------------
+|                  |
+|                  |
+|                  |
+|                  |
+--------------------
 ```
 	
