@@ -28,33 +28,36 @@ enter command: C 20 4
 --------------------
 
 enter command: L 1 2 6 2
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-| |
-|xxxxxx |
-| |
-| |
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+--------------------‐
+|                  |
+|xxxxxx            |
+|                  |
+|                  |
+--------------------
+
 enter command: L 6 3 6 4
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-| |
-|xxxxxx |
-| x |
-| x |
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+--------------------
+|                  |
+|xxxxxx            |
+|     x            |
+|     x            |
+--------------------
+
 enter command: R 16 1 20 3
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-| xxxxx|
-|xxxxxx x x|
-| x xxxxx|
-| x |
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+--------------------
+|             xxxxx|
+|xxxxxx       x   x|
+|     x       xxxxx|
+|     x            |
+--------------------
+
 enter command: B 10 3 o
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-|oooooooooooooooxxxxx|
-|xxxxxxooooooooox x|
-| xoooooooooxxxxx|
-| xoooooooooooooo|
-‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+--------------------
+|oooooooooooooxxxxx|
+|xxxxxxooooooox   x|
+|     xoooooooxxxxx|
+|     xoooooooooooo|
+--------------------
+
 enter command: Q
 ```
-	
