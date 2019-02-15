@@ -14,3 +14,15 @@ The program should support the followings commands:
 | `R x1 y1 x2 y2`  | Should create a new rectangle, whose upper left corner is `(x1,y1)` and lower corner<br /> is `(x2,y2)`. Horizontal and vertical lines will be drawn using the x character. |
 | `B x y c`        | Should fill the entire area connected to `(x,y)` with colour `'c'`. The behaviour of this is the same<br /> as that of the "bucket fill" tool in paint programs. |
 | `Q`              | Should quit the program. |
+
+# Sample I/O
+Below is a sample of the output your program should produce. User input is prefixed with `enter command:`:
+	
+`enter command: C 20 4`
+`--------------------`
+`| 					  |`
+`| 					  |`
+`| 					  |`
+`| 					  |`
+`--------------------`
+	
