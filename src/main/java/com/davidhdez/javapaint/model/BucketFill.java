@@ -20,6 +20,8 @@ public class BucketFill extends ShapeDecorator {
 	}
 	
 	private void createBucketFill(String[][] matrix, Point point, String colour) {
+		// TODO
+		// I don't like this code I have to improve it because It's not very efficient
 		if (matrix[point.getX()][point.getY()] != null) {
 			return;
 		} else {
